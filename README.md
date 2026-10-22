@@ -3,7 +3,7 @@
 An interactive web application built with Streamlit to visualize key business performance indicators, trends, and sales behaviors from e-commerce transaction records.
 
 ## 🚀 Live Demo
-Deploy this repository directly to [Streamlit Community Cloud](https://streamlit.io/cloud).
+Deploy this repository directly to [Streamlit Community Cloud](https://ecom-store.streamlit.app/).
 
 ## 📊 Features & Visualizations
 - **Key Business Metrics (KPI Cards)**: View Total Revenue, Total Orders, Average Customer Rating, and Average Delivery Days dynamically.
